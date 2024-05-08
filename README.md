@@ -1,3 +1,3 @@
-# ads
+# ADS Chat
 
-Experiments in natural language query to solr query translation
+An application for searching the NASA ADS using natural language requests
